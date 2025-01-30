@@ -6,3 +6,7 @@ Console.WriteLine("Hello, World!");
 void UnusedMethod()
 {
 }
+
+void OneMoreUnusedMethod()
+{
+}
