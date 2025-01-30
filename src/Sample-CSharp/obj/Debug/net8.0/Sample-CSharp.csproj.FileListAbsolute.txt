@@ -1,0 +1,15 @@
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/Sample-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/Sample-CSharp.AssemblyInfoInputs.cache
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/Sample-CSharp.AssemblyInfo.cs
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/Sample-CSharp.csproj.CoreCompileInputs.cache
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/Sample-CSharp.sourcelink.json
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/bin/Debug/net8.0/Sample-CSharp
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/bin/Debug/net8.0/Sample-CSharp.deps.json
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/bin/Debug/net8.0/Sample-CSharp.runtimeconfig.json
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/bin/Debug/net8.0/Sample-CSharp.dll
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/bin/Debug/net8.0/Sample-CSharp.pdb
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/Sample-CSharp.dll
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/refint/Sample-CSharp.dll
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/Sample-CSharp.pdb
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/Sample-CSharp.genruntimeconfig.cache
+/Users/costin.zaharia/src/Sample-CSharp/src/Sample-CSharp/obj/Debug/net8.0/ref/Sample-CSharp.dll
