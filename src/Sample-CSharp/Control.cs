@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Xml;
 
-public class ExampleController : Controller
+public class Control : Controller
 {
     [HttpGet]
     public IActionResult Method(string user, string pass)
