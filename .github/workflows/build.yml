@@ -33,6 +33,6 @@ jobs:
         shell: powershell
         run: |
           cd src\
-          dotnet sonarscanner begin /k:"sonarsource_costin-sample-charp" /o:"sonarsource" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.scanner.sonarcloudUrl="https://dev.sc-dev.io"
+          dotnet sonarscanner begin /k:"SQTest-CZ_Sample-CSharp" /o:"sqtest-cz" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.scanner.sonarcloudUrl="https://dev6.sc-dev6.io/"
           dotnet build 
           dotnet sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
