@@ -12,4 +12,8 @@ public class Control : Controller
 
         return Json(doc.SelectSingleNode(expression) != null);
     }
+
+    private void UnusedMethod()
+    {
+    }
 }
